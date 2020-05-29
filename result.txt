@@ -1,0 +1,9 @@
+Name			Age		Phone
+Anna 			17 		-
+Dima 			25 		345-32-55
+Inna 			- 		000-00-00
+Ivan 			90 		111-11-11
+Lena 			40 		-
+Marina 			- 		444-44-33
+Pavel 			20 		-
+
